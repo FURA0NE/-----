@@ -1,0 +1,12 @@
+#test{
+    color: rgb(126, 126, 255);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#test2{
+    color: rgb(194, 194, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#test3{
+    font-family: initial;
+}
