@@ -10,3 +10,12 @@
 #test3{
     font-family: Arial
 }
+#black{
+    color: black;
+    background-color: aliceblue;
+    text-align: center;}
+#red{
+    color: red;
+    background-color: aliceblue;
+    text-align: center;
+    }
